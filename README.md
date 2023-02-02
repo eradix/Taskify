@@ -1,2 +1,2 @@
 # Taskify REST API
-A task management application rest api.
+A task management web application REST API.
